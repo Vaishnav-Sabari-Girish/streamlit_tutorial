@@ -8,3 +8,4 @@ This repo is me learning streamlit
 2. [Data Table](data_table/app.py)
 3. [Chart](charts/app.py)
 4. [Maps](maps/app.py)
+5. [Widgets](widgets/app.py)
